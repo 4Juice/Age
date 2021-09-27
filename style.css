@@ -1,0 +1,32 @@
+body{
+    margin: 0px;
+    height: 0px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+form{
+    margin: 400px;
+    width:1000px;
+    text-align: center;
+
+}
+
+
+#Age{
+    width: 200px;
+    height: 30px;
+    font-size: 30px;
+    text-align: center;
+}
+label{
+    font-size: 25px;
+}
+#btn{
+    width: 40px;
+    height: 30px;
+}
+span{
+   color: rebeccapurple;
+   font-size: 20px;
+}
